@@ -29,12 +29,12 @@ about:
 
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/IMG_9135.heic
+      caption: My record player!
+    - image: assets/images/IMG_2300.HEIC
+      caption: Me jogging!
+    - image: assets/images/IMG_1629.JPG
+      caption: Me playing electric guitar in my room!
+    - image: assets/images/IMG_0092.heic
+      caption: My fav fit pic!
 ---
