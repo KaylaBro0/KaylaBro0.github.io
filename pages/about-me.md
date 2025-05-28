@@ -29,12 +29,12 @@ about:
 
 
   gallery:
-    - image: assets/images/IMG_9135.heic
+    - image: assets/images/IMG_9135 (1).jpeg
       caption: My record player!
-    - image: assets/images/IMG_2300.HEIC
+    - image: assets/images/IMG_2300.jpeg
       caption: Me jogging!
     - image: assets/images/IMG_1629.JPG
       caption: Me playing electric guitar in my room!
-    - image: assets/images/IMG_0092.heic
+    - image: assets/images/IMG_0100.jpeg
       caption: My fav fit pic!
 ---
