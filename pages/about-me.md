@@ -33,4 +33,4 @@ about:
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
-  ---
+---
