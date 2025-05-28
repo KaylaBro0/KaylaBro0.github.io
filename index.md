@@ -13,5 +13,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/mikayla-brown-b27553294/
-image: /assets/images/me.jpg
+image: assets/images/piccc.jpeg
 ---
