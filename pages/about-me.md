@@ -4,27 +4,29 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Miikayla Brown
+  role: Junior, Computer Science at Morgan State University
+  image: assets/images/piccc.jpeg
+  linkedin: https://www.linkedin.com/in/mikayla-brown-b27553294/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
     When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎧🎼
+      title: Music Lover
+      description: I love all kinds of music! But my favorites are r&b, rap, alt r&b, and indi. My favorite artist of all time is Frank Ocean!!
+      I also enjoy playing the electric guitar and piano.
+    - icon: 🛹🏋🏽‍♀️
+      title: Sports / working out
+      description: I enjoy skateboarding, running, playing soccer and basketball, and going to the gym. I've been playing sports and 
+      skateboarding since I was very young. 
+    - icon: 🛍️
+      title: Fashion
+      description: I love fashion a lot! I personaly like streetwear and business casual.
 
   gallery:
     - image: /assets/images/me-guitar.png
