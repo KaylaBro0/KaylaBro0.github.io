@@ -14,15 +14,19 @@ about:
   hobbies:
     - icon: 🎧🎼
       title: Music Lover
-      description: I love all kinds of music! But my favorites are r&b, rap, alt r&b, and indi. My favorite artist of all time is Frank Ocean!!
-      I also enjoy playing the electric guitar and piano.
+      description: |
+        I love all kinds of music! My favorites are R&B, rap, alt R&B, and indie. My favorite artist of all time is Frank Ocean! 
+        I also enjoy playing the electric guitar and piano.
     - icon: 🛹🏋🏽‍♀️
-      title: Sports / working out
-      description: I enjoy skateboarding, running, playing soccer and basketball, and going to the gym. I've been playing sports and 
-      skateboarding since I was very young. 
+      title: Sports / Working Out
+      description: |
+        I enjoy skateboarding, running, playing soccer and basketball, and going to the gym. I've been playing sports and skateboarding since I 
+        was very young.
     - icon: 🛍️
       title: Fashion
-      description: I love fashion a lot! I personaly like streetwear and business casual.
+      description: |
+        I love fashion! I personally like streetwear and business casual styles.
+
 
   gallery:
     - image: /assets/images/me-guitar.png
