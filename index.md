@@ -10,7 +10,7 @@ quick_facts:
   - "🔬 Research:AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular 
     Disorders"
   - "📍 Based in Baltimore, MD"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🚀 I strive to someday solve many problems that's affecting the real-world"
 
 linkedin: https://www.linkedin.com/in/mikayla-brown-b27553294/
 image: assets/images/piccc.jpeg
