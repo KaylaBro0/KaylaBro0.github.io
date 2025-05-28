@@ -11,10 +11,6 @@ about:
   bio: |
     I’m currently a junior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
-
   hobbies:
     - icon: 🎧🎼
       title: Music Lover
@@ -37,4 +33,4 @@ about:
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
----
+  ---
