@@ -12,6 +12,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: [mikayla-brown2](https://www.linkedin.com/in/mikayla-brown-b27553294/)
+linkedin: https://www.linkedin.com/in/mikayla-brown-b27553294/
 image: /assets/images/me.jpg
 ---
