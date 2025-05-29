@@ -23,9 +23,13 @@ approach: |
 outcome: |
   This project will produce a personalized AI system that helps manage cardiovascular risk in Type 1 Diabetes patients. Key outcomes include:
    - A trained Deep Q-Network (DQN) that makes tailored treatment recommendations.
+     
    -A cleaned and analyzed dataset ready for AI use.
+   
    -A simulated environment to test treatment strategies.
+   
    -A report and presentation showing how well the AI reduces cardiovascular risk.
+   
   These results will show the potential of AI to improve personalized care and long-term health outcomes.
 
 final_report_url: TBD
