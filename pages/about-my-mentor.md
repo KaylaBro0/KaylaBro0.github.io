@@ -10,7 +10,7 @@ graduate_mentor:
   website: https://www.linkedin.com/in/ricky-gole/
   bio: |
     tbd
-
+ 
 faculty_mentor:
   name: Dr.Jamell Dacon
   title: Assistant Professor, Morgan State University
