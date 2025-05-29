@@ -22,6 +22,7 @@ approach: |
 
 outcome: |
   This project will produce a personalized AI system that helps manage cardiovascular risk in Type 1 Diabetes patients. Key outcomes include:
+   
     -A cleaned and analyzed dataset ready for AI use.
    
     -A simulated environment to test treatment strategies.
