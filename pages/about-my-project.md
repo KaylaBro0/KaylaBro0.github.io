@@ -9,15 +9,15 @@ project_title: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforce
 
 problem: |
   People with Type 1 Diabetes (T1D) face a higher risk of developing cardiovascular diseases like heart attacks and strokes. Over time, high 
-  blood sugar levels can damage the heart and blood vessels, leading to complications. However, managing diabetes involves a lot of decisions— 
+  blood sugar levels can damage the heart and blood vessels, leading to complications. However, managing diabetes involves a lot of decisions 
   like adjusting insulin doses, tracking blood sugar, and more. This can be tricky because every person’s body is different, and their health 
   changes over time.
 
 approach: |
   To use Deep Q-Networks (DQN), a type of artificial intelligence, to create personalized treatment plans for people with Type 1 Diabetes. The 
-  AI learns from each patient’s health data—like blood sugar levels, insulin use, heart health, and physical activity—and uses that information 
+  AI learns from each patient’s health data like blood sugar levels, insulin use, heart health, and physical activity and uses that information 
   to suggest tailored strategies. Unlike traditional methods, the DQN adapts over time, improving its recommendations as it receives new data. 
-  This personalized, data-driven system aims to help patients manage their diabetes more effectively and reduce their risk of cardiovascular 
+  This personalized, data driven system aims to help patients manage their diabetes more effectively and reduce their risk of cardiovascular 
   events.
 
 outcome: |
@@ -31,7 +31,7 @@ outcome: |
 
     -A trained Deep Q-Network (DQN) that makes tailored treatment recommendations.
 
-  These results will show the potential of AI to improve personalized care and long-term health outcomes.
+  These results will show the potential of AI to improve personalized care and long term health outcomes.
 
 final_report_url: TBD
 
