@@ -3,34 +3,38 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: AI-Driven Comorbidity Management in Type 1 Diabetes
+project_title: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular 
+ Disorders"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  People with Type 1 Diabetes (T1D) face a higher risk of developing cardiovascular diseases like heart attacks and strokes. Over time, high 
+  blood sugar levels can damage the heart and blood vessels, leading to complications. However, managing diabetes involves a lot of decisions— 
+  like adjusting insulin doses, tracking blood sugar, and more. This can be tricky because every person’s body is different, and their health 
+  changes over time.
 
 approach: |
-  The project follows a four-phase pipeline:
-
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  To use Deep Q-Networks (DQN), a type of artificial intelligence, to create personalized treatment plans for people with Type 1 Diabetes. The 
+  AI learns from each patient’s health data—like blood sugar levels, insulin use, heart health, and physical activity—and uses that information 
+  to suggest tailored strategies. Unlike traditional methods, the DQN adapts over time, improving its recommendations as it receives new data. 
+  This personalized, data-driven system aims to help patients manage their diabetes more effectively and reduce their risk of cardiovascular 
+  events.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  This project will produce a personalized AI system that helps manage cardiovascular risk in Type 1 Diabetes patients. Key outcomes include:
+   - A trained Deep Q-Network (DQN) that makes tailored treatment recommendations.
+   -A cleaned and analyzed dataset ready for AI use.
+   -A simulated environment to test treatment strategies.
+   -A report and presentation showing how well the AI reduces cardiovascular risk.
+  These results will show the potential of AI to improve personalized care and long-term health outcomes.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: TBD
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Ricky Gole
+  linkedin: https://www.linkedin.com/in/ricky-gole/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Jamell Dacon
+  linkedin: https://www.linkedin.com/in/jamelldacon/
 ---
