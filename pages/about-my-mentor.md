@@ -4,23 +4,20 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Ricky Gole
+  title: PhD Student, Advanced Computing
+  image: assets/images/ricky.jpeg
+  website: https://www.linkedin.com/in/ricky-gole/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    tbd
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr.Jamell Dacon
+  title: Assistant Professor, Morgan State University
+  image: assets/images/doc.jpeg
+  website: https://daconjam.github.io/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Jamell Dacon is a Assistant Professor of Computer Science at Morgan State and the Director of the MINDS Lab. He’s not just an expert in AI, machine learning, and data science he uses his research to tackle real-world problems, especially where tech and society intersect. On top of all that, he’s contributed to some of the top conferences and journals in the field, which just shows how respected he is in the academic world.
+But what really makes Dr. Dacon different is the way he makes every student feel like they matter. He genuinely believes in us and makes you feel like you can accomplish anything if you’re willing to put in the work. He gives us the space and support to chase big dreams and helps us see our potential even when we can’t. Like the Malcolm Forbes quote says, “Education’s purpose is to replace an empty mind with an open one,” and Dr. Dacon lives that every day.
 
 ---
