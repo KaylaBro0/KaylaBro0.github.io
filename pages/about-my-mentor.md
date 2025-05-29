@@ -9,7 +9,10 @@ graduate_mentor:
   image: assets/images/ricky.jpeg
   website: https://www.linkedin.com/in/ricky-gole/
   bio: |
-    tbd
+    Ricky Gole is a dedicated Master’s student in Advanced Computing at Morgan State University, joining our project this summer. He brings 
+    strong skills in reinforcement learning, cloud security, and data science, with a keen interest in applying Deep Q-Networks to healthcare. 
+    Ricky is reliable and always willing to help out, committed to being on campus and fully engaged. I’m confident he’ll be a 
+    valuable and supportive team member.
  
 faculty_mentor:
   name: Dr.Jamell Dacon
